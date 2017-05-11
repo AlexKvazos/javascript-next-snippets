@@ -17,6 +17,9 @@ You can find this package as **Javascript Next Snippets** in Package Control.
 | warn→   | console.warn()      |
 | error→  | console.error()     |
 | table→  | console.table()     |
+| alert→  | alert()     |
+| confirm→  | confirm()     |
+| prompt→  | prompt()     |
 | arr→    | let array = []      |
 | obj→    | let object = {}     |
 | tern→   | condition ? () : () |
@@ -25,12 +28,12 @@ You can find this package as **Javascript Next Snippets** in Package Control.
 
 | Trigger | Snippet               |
 |---------|-----------------------|
-| _rcc    | React Class Component |
-| _cwm    | componentWillMount()  |
-| _cwu    | componentWillUpdate() |
-| _cwun   | componentWillUnmount()|
-| _cdm    | componentDidMount()   |
-| _cdu    | componentDidUpdate()  |
-| _cwr    | componentWillReceiveProps() |
-| _scu    | shouldComponentUpdate() |
+| _rcc→    | React Class Component |
+| _cwm→    | componentWillMount()  |
+| _cwu→    | componentWillUpdate() |
+| _cwun→   | componentWillUnmount()|
+| _cdm→    | componentDidMount()   |
+| _cdu→    | componentDidUpdate()  |
+| _cwr→    | componentWillReceiveProps() |
+| _scu→    | shouldComponentUpdate() |
 | setState | setState(); |
