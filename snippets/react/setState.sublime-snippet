@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-setState({${1}});
+setState({${1}})
 ]]></content>
   <tabTrigger>setState</tabTrigger>
   <description>React: setState()</description>

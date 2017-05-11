@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-alert(${1});
+alert(${1})
 ]]></content>
   <tabTrigger>alert</tabTrigger>
-  <description>alert();</description>
+  <description>alert()</description>
   <scope>source.js</scope>
 </snippet>

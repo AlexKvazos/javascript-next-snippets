@@ -39,4 +39,4 @@ You can find this package as **Javascript Next Snippets** in Package Control.
 | _cdu→    | componentDidUpdate()  |
 | _cwr→    | componentWillReceiveProps() |
 | _scu→    | shouldComponentUpdate() |
-| setState | setState(); |
+| setState | setState() |

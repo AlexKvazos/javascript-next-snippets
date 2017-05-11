@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-prompt(${1});
+prompt(${1})
 ]]></content>
   <tabTrigger>prompt</tabTrigger>
-  <description>prompt();</description>
+  <description>prompt()</description>
   <scope>source.js</scope>
 </snippet>
