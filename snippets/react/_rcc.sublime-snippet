@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+import React from 'react';
+
+class ${1:Name} extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    return (
+      ${2:<div></div>}
+    );
+  }
+}
+
+export default ${1:Name};
+]]></content>
+  <tabTrigger>_rcc</tabTrigger>
+  <description>React: Component Class</description>
+  <scope>source.js</scope>
+</snippet>

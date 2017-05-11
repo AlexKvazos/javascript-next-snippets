@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+console.table(${1})
+]]></content>
+  <tabTrigger>table</tabTrigger>
+  <description>console.table()</description>
+  <scope>source.js</scope>
+</snippet>
