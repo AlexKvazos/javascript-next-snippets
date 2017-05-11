@@ -35,6 +35,7 @@ Since package control is still pending to accept this package, you'll have to in
 | Trigger | Snippet               |
 |---------|-----------------------|
 | _rcc→    | React Class Component |
+| _rfc→    | React Functional Component |
 | _cwm→    | componentWillMount()  |
 | _cwu→    | componentWillUpdate() |
 | _cwun→   | componentWillUnmount()|
