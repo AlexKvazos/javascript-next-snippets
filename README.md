@@ -22,6 +22,7 @@ You can find this package as **Javascript Next Snippets** in Package Control.
 | prompt→  | prompt()     |
 | setTimeout→  | setTimeout()     |
 | setInterval→  | setInterval()     |
+| addEventListener→  | addEventListener()     |
 | arr→    | let array = []      |
 | obj→    | let object = {}     |
 | tern→   | condition ? () : () |
