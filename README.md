@@ -4,7 +4,10 @@ The last Javascript 2017 & React snippets package you will ever need.
 ![Sample GIF](/awesome.gif?raw=true)
 
 ## Installation
-You can find this package as **Javascript Next Snippets** in Package Control.
+Since package control is still pending to accept this package, you'll have to install manually.
+
+`git clone https://github.com/AlexKvazos/javascript-next-snippets ~/Library/Application Support/Sublime Text 3/Packages/javascript-next-snippets`
+
 
 ## Available Snippets
 
@@ -39,4 +42,4 @@ You can find this package as **Javascript Next Snippets** in Package Control.
 | _cdu→    | componentDidUpdate()  |
 | _cwr→    | componentWillReceiveProps() |
 | _scu→    | shouldComponentUpdate() |
-| setState | setState() |
+| setState→ | setState() |
