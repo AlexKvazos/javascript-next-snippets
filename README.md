@@ -20,6 +20,8 @@ You can find this package as **Javascript Next Snippets** in Package Control.
 | alert→  | alert()     |
 | confirm→  | confirm()     |
 | prompt→  | prompt()     |
+| setTimeout→  | setTimeout()     |
+| setInterval→  | setInterval()     |
 | arr→    | let array = []      |
 | obj→    | let object = {}     |
 | tern→   | condition ? () : () |
