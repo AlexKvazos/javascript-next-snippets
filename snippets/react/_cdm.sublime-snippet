@@ -1,10 +1,10 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 componentDidMount() {
-  ${1}
+	${1}
 }
 ]]></content>
-  <tabTrigger>_cdm</tabTrigger>
-  <description>React: componentDidMount()</description>
-  <scope>source.js</scope>
+	<tabTrigger>_cdm</tabTrigger>
+	<description>React: componentDidMount()</description>
+	<scope>source.js</scope>
 </snippet>

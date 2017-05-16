@@ -1,12 +1,12 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 const ${1:Name} = (props) => {
-  return (
-    ${2:<div></div>}
-  );
+	return (
+		${2:<div></div>}
+	);
 };
 ]]></content>
-  <tabTrigger>_rfc</tabTrigger>
-  <description>React: Functional Component</description>
-  <scope>source.js</scope>
+	<tabTrigger>_rfc</tabTrigger>
+	<description>React: Functional Component</description>
+	<scope>source.js</scope>
 </snippet>

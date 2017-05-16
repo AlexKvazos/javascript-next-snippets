@@ -1,10 +1,10 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 componentWillMount() {
-  ${1}
+	${1}
 }
 ]]></content>
-  <tabTrigger>_cwm</tabTrigger>
-  <description>React: componentWillMount()</description>
-  <scope>source.js</scope>
+	<tabTrigger>_cwm</tabTrigger>
+	<description>React: componentWillMount()</description>
+	<scope>source.js</scope>
 </snippet>

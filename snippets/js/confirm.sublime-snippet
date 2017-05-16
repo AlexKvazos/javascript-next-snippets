@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 confirm(${1})
 ]]></content>
-  <tabTrigger>confirm</tabTrigger>
-  <description>confirm()</description>
-  <scope>source.js</scope>
+	<tabTrigger>confirm</tabTrigger>
+	<description>confirm()</description>
+	<scope>source.js</scope>
 </snippet>

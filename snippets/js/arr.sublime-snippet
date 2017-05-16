@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 let ${1:array} = [${2}];
 ]]></content>
-  <tabTrigger>arr</tabTrigger>
-  <description>let array = []</description>
-  <scope>source.js</scope>
+	<tabTrigger>arr</tabTrigger>
+	<description>let array = []</description>
+	<scope>source.js</scope>
 </snippet>

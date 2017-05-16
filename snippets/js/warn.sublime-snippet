@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 console.warn(${1})
 ]]></content>
-  <tabTrigger>warn</tabTrigger>
-  <description>console.warn()</description>
-  <scope>source.js</scope>
+	<tabTrigger>warn</tabTrigger>
+	<description>console.warn()</description>
+	<scope>source.js</scope>
 </snippet>

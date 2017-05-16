@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 let ${1:object} = {${2}};
 ]]></content>
-  <tabTrigger>obj</tabTrigger>
-  <description>let object = {}</description>
-  <scope>source.js</scope>
+	<tabTrigger>obj</tabTrigger>
+	<description>let object = {}</description>
+	<scope>source.js</scope>
 </snippet>
